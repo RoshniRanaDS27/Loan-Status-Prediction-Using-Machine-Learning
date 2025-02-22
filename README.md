@@ -11,7 +11,18 @@ This end-to-end machine learning project predicts loan approval status based on 
 6. Model Training and Evaluation  
 7. Hyperparameter Tuning  
 8. Cross-Validation (K-Fold)  
-9. Model Deployment & GUI Development  
+9. Model Deployment & GUI Development
+
+# App demo 
+![image](https://github.com/user-attachments/assets/c1f7f706-5703-471e-9539-d34a0d575c95)  
+#
+![image](https://github.com/user-attachments/assets/c79197f0-4ecc-46f8-8e85-1dc2618c92dd)
+
+
+### Input Category   
+![image](https://github.com/user-attachments/assets/1d851b4c-3f62-4379-be69-d625ed9e34b0)
+
+
 
 # Breakdown of Key Concepts in the Code
 ## 🔍 Feature Scaling  
@@ -56,6 +67,7 @@ Why It Mattered: Standardized features (income, loan amount, loan term) ensured 
 
 ## 🔄 Cross-Validation Insights
 Outcome: The 5-Fold Cross-Validation demonstrated that the Random Forest model generalizes effectively across various data splits, making it the top performer.
+
 
 
 

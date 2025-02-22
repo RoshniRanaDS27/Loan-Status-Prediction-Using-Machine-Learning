@@ -1,5 +1,6 @@
 # Loan-Status-Prediction-Using-Machine-Learning
-![image](https://github.com/user-attachments/assets/75800798-e2d6-4e76-abc0-0827d5ef28e0)
+![image](https://github.com/user-attachments/assets/3e83c3ae-e0e4-46db-95cd-2133201ba648)
+
 
 
 ### Overview 📋

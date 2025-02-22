@@ -1,4 +1,6 @@
 # Loan-Status-Prediction-Using-Machine-Learning
+![image](https://github.com/user-attachments/assets/4eccc298-60a7-490c-af39-7e3a29417bbf)
+
 ### Overview 📋
 This end-to-end machine learning project predicts loan approval status based on customer profiles. Built using Python and scikit-learn, it covers data preprocessing, feature scaling, model training, evaluation, and hyperparameter tuning. Additionally, a user-friendly GUI was developed for seamless user interaction.
 
